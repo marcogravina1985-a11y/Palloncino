@@ -1,0 +1,5 @@
+PALLONCINO - pacchetto per Android
+
+Contenuto: index.html (gioco con suoni e vibrazione), manifest.webmanifest, sw.js (funzionamento offline), icone.
+Per usarlo da telefono con PWABuilder: carica questi file sul tuo sito (HTTPS), poi inserisci l'indirizzo su pwabuilder.com e scegli Android.
+Per usarlo da computer con Capacitor: crea un progetto Capacitor e copia questi file nella cartella web.
